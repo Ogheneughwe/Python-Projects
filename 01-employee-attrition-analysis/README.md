@@ -121,3 +121,28 @@ The following tools and technologies were used:
 │
 ├── README.md
 └── requirements.txt
+
+---
+
+## **Future Work**
+
+```text
+
+Future development could include:
+
+Feature engineering
+Statistical analysis
+Encoding categorical variables
+Feature selection
+Machine learning classification
+Model evaluation
+Employee attrition prediction
+Author
+
+Ogheneughwe Godwin AKISE
+
+Data Science Intern | AnalystLab Africa
+
+Programme
+
+AnalystLab Africa Data Science Internship Programme
