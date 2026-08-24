@@ -17,16 +17,22 @@ pip install pandas numpy scipy matplotlib seaborn scikit-learn
 3.  **Review Outputs**: Pay attention to the printed outputs, visualizations, and markdown interpretations provided in each section to understand the analysis.
 
 ## Workflow/Architecture Diagram
-
-*(**Placeholder for Workflow Diagram:** <img width="1536" height="1024" alt="Workflow Diagram" src="https://github.com/user-attachments/assets/23c51c42-3ad9-40db-85c7-e78c9074dfd1" />
-
+ <img width="1536" height="1024" alt="Workflow Diagram" src="https://github.com/user-attachments/assets/23c51c42-3ad9-40db-85c7-e78c9074dfd1" />
 
 ## Sample Output Screenshots
+<img width="508" height="346" alt="Age Distri by HDS" src="https://github.com/user-attachments/assets/fbbbcb3b-ca30-4b9c-a6f1-b4a650890ed9" />
+<img width="523" height="350" alt="MaxHR by HDS" src="https://github.com/user-attachments/assets/39537efe-c867-4aca-86ef-61f9766fecb2" />
+<img width="511" height="354" alt="Oldpeak Distri by HDS" src="https://github.com/user-attachments/assets/9755589f-1005-4e4b-8ffc-182f634ca0c8" />
+<img width="521" height="372" alt="RestingBP Distri by HDS" src="https://github.com/user-attachments/assets/87dfe273-3ed1-4a05-b69e-7148997b75ee" />
+<img width="507" height="354" alt="Cholesterol Distri by HDS" src="https://github.com/user-attachments/assets/a7995e25-7d32-4b10-aa10-c4d0b41a5a96" />
+<img width="556" height="362" alt="Heart Rate to Age Ratio by Heart Disease Status" src="https://github.com/user-attachments/assets/c97968ab-0b20-454d-8917-fb63aa765161" />
+<img width="305" height="210" alt="ST Exercise Risk by Heart Disease Status" src="https://github.com/user-attachments/assets/ca994a6c-dd67-4b9c-b2de-fc3a74bc1b8d" />
+<img width="932" height="296" alt="Final Modelling Dataset 1" src="https://github.com/user-attachments/assets/15946ee6-11ee-465c-948a-2c7777cadc17" />
+<img width="930" height="301" alt="Final modelling Dataset 2" src="https://github.com/user-attachments/assets/6439461f-53f1-4aa4-bff9-cead69535408" />
+<img width="954" height="464" alt="Feature Evaluation Table" src="https://github.com/user-attachments/assets/4f84f638-f7e7-4e33-9418-a82d918d55fb" />
 
-*(**Placeholder for Screenshots:** Insert key screenshots of visualizations (e.g., boxplots showing feature distributions by heart disease status, correlation heatmaps) and important dataframes (e.g., `Final_Modelling_Dataset.head()`, feature evaluation table) here to showcase typical outputs and illustrate the analysis.)*
 
 ## Dataset Limitations and Assumptions
-
 This analysis is based on a specific heart disease dataset with the following limitations and implicit assumptions:
 
 *   **Sample Size:** The dataset contains 918 entries. While sufficient for initial analysis, a larger and more diverse dataset would enhance the generalizability and robustness of the findings.
