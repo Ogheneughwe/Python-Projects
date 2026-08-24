@@ -18,7 +18,8 @@ pip install pandas numpy scipy matplotlib seaborn scikit-learn
 
 ## Workflow/Architecture Diagram
 
-*(**Placeholder for Workflow Diagram:** Insert a visual representation here illustrating the end-to-end data science process. This could include stages like Data Collection, Data Cleaning, EDA, Feature Engineering, Model Training, Model Evaluation, and Deployment. Arrows should indicate the flow between stages.)*
+*(**Placeholder for Workflow Diagram:** <img width="1536" height="1024" alt="Workflow Diagram" src="https://github.com/user-attachments/assets/23c51c42-3ad9-40db-85c7-e78c9074dfd1" />
+
 
 ## Sample Output Screenshots
 
