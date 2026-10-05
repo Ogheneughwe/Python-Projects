@@ -1,0 +1,13 @@
+Risk_or_Limitation,Evidence_or_Impact,Week_8_Treatment,Status
+Moderate predictive discrimination,Final holdout ROC-AUC is approximately 0.689.,Present model as moderate risk prioritisation rather than highly accurate prediction.,Documented
+False-negative risk,136 observed no-shows were not flagged at the 0.45 holdout threshold.,Retain recall as an important monitoring metric.,Documented
+False-positive outreach burden,225 attending appointments were flagged at the 0.45 holdout threshold.,Monitor outreach volume and false-positive burden.,Documented
+Operational threshold not formally approved,0.45 improves recall but increases supportive outreach requirements.,Keep 0.45 provisional pending stakeholder operational agreement.,Open
+Patient-grouped CV unavailable,Processed modelling matrices did not support patient-grouped CV.,Document and recommend patient-grouped validation when identifiers are available.,Documented
+Preprocessing not fully nested within CV,Existing processed matrices were used rather than rebuilding all preprocessing inside each fold.,Recommend fully nested preprocessing in future validation.,Documented
+Segment-level performance variation,Week 7 identified different FP/FN behaviour across appointment segments.,Retain segment-level monitoring.,Monitor
+Prediction-level identifier traceability,Prediction-level linkage requires stronger appointment identifier preservation.,Resolve identifier traceability during engineering integration.,Open
+Cross-track data-version / missing-distance discrepancy,A previously identified discrepancy in missing-distance counts remains a data-governance dependency.,Carry forward as a documented data-quality/governance issue.,Open
+Observational rather than causal evidence,Analytics and modelling relationships should not be interpreted as causal effects.,Use association language and avoid causal claims.,Documented
+Potential future data drift,Future appointment behaviour may differ from historical development data.,Recommend post-integration drift/performance monitoring.,Future monitoring
+ML Engineering compatibility,Final end-to-end pipeline reproduction remains pending until HC_W8_TEST_001 is returned.,"Final model, schema and reproducible reference test were supplied to ML Engineering. End-to-end reproduction remains a post-submission dependency because no return result was received.",Open — handoff completed; return validation unavailable before submission

@@ -1,0 +1,13 @@
+Field,Value
+Project,HealthConnect Clinic
+Model_Version,HealthConnect_Week8_Final_LR
+Model_Type,LogisticRegression
+Target,Appointment attendance outcome
+Positive_Class,No-Show
+Feature_Count,38
+Probability_Output,Probability of No-Show
+Provisional_Threshold,0.45
+Risk_Flag_Rule,no_show_probability >= 0.45
+Threshold_Status,Provisional — operational approval required
+Intended_Use,Supportive appointment risk prioritisation
+Production_Status,Integration/demo candidate — not production-ready

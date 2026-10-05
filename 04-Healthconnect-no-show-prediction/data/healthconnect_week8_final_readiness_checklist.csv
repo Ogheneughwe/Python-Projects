@@ -1,0 +1,16 @@
+Readiness_Item,Status,Evidence
+Final candidate model confirmed,Complete,Final serialized Logistic Regression artifact
+Final 38-feature specification frozen,Complete,38-feature contract
+Final evaluation consolidated,Complete,Final holdout metrics
+Baseline comparison documented,Complete,Fold-level baseline/candidate comparison
+Refinement decision documented,Complete,Calendar ablation summary
+Error-analysis implications documented,Complete,Week 7 FP/FN and segment testing
+Business suitability documented,Complete,Week 8 business suitability assessment
+Intended/non-intended use documented,Complete,Responsible-use documentation
+Analytics → DS validation incorporated,Complete,Cross-track validation and Analytics incorporation record
+DS → ML Engineering handoff completed,Complete,Model + feature contract + reference test supplied to ML Engineering
+ML Engineering → DS pipeline reproduction,Pending — No response,HC_W8_TEST_001 return result not received before submission
+Limitations and risks documented,Complete,Final limitations/risk register
+Final model card prepared,Complete,Final model card
+Executive summary prepared,Complete,Final nontechnical executive summary
+Presentation/video,Separate deliverable,Prepared separately from the technical notebook

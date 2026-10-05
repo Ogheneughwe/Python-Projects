@@ -1,0 +1,23 @@
+Model_Card_Item,Value
+Model name,HealthConnect Final No-Show Risk Model
+Model family,Logistic Regression
+Business objective,Support prioritisation of appointments at elevated no-show risk
+Prediction target,Appointment attendance outcome
+Positive class,No-Show
+Final feature count,38
+Output,Predicted probability of No-Show
+Provisional threshold,0.45
+Holdout ROC-AUC,0.689
+Holdout PR-AUC,0.6717
+Holdout precision,0.6066
+Holdout recall,0.7184
+Holdout F1,0.6578
+False negatives,136
+False positives,225
+Primary intended use,Supportive administrative risk prioritisation
+Non-intended use,"Clinical decisions, access restriction, automatic cancellation, patient penalties or causal inference"
+Week 7 refinement decision,Calendar-feature ablation rejected under predefined recall-retention criterion
+Cross-track validation,Analytics directional validation PASS
+Analytics findings incorporated,"Validated lead-time and previous-no-show-history patterns used for model, segment and business interpretation"
+Integration status,DS → MLE handoff completed; MLE → DS pipeline reproduction not independently verified before submission because no return result was received.
+Production status,Integration/demo candidate — not production-ready

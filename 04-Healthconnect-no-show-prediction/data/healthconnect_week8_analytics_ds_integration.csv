@@ -1,0 +1,4 @@
+Validated_Analytics_Finding,DS_Validation,How_Used_in_Final_DS_Work,Caution
+No-show prevalence increases with longer booking lead time,Directional relationship reproduced after harmonising lead-time bands,Supports interpretation of booking lead time and contextualises lead-time segment errors,"Association, not causation"
+No-show prevalence increases with previous no-show history,Directional relationship reproduced in the Data Science modelling sample,Supports interpretation of previous-no-show-history predictors and interactions,"Association, not causation"
+Combined lead-time/history patterns identify elevated-risk segments,Combined high-risk pattern examined during Week 7 cross-track validation,Supports business interpretation of model-based risk prioritisation,"Useful for prioritisation, not automatic patient decisions"
