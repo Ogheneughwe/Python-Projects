@@ -1,0 +1,39 @@
+Feature
+age
+booking_lead_days
+previous_appointments
+previous_no_shows
+distance_to_clinic_km
+booking_month
+booking_day_of_week
+booking_day_of_year
+booking_week_of_year
+appointment_month
+appointment_day_of_year
+appointment_week_of_year
+gender_Male
+gender_Prefer not to say
+age_group_25-34
+age_group_35-44
+age_group_45-54
+age_group_55-64
+age_group_65+
+appointment_type_Follow-up
+appointment_type_General Consultation
+appointment_type_Specialist Consultation
+appointment_day_Monday
+appointment_day_Saturday
+appointment_day_Sunday
+appointment_day_Thursday
+appointment_day_Tuesday
+appointment_day_Wednesday
+appointment_time_Evening
+appointment_time_Morning
+reminder_sent_Yes
+reminder_channel_No Reminder
+reminder_channel_SMS
+reminder_channel_WhatsApp
+is_sunday_appointment_1
+history_x_lead_time
+distance_x_lead_time
+history_interaction

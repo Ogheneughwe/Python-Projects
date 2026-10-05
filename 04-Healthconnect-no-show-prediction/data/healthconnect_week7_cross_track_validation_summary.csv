@@ -1,0 +1,4 @@
+Cross_Track_Test,Expected_From_Analytics,Retest_Result
+Lead-time direction,No-show rate increases with longer lead time,PASS
+Previous-no-show-history direction,No-show rate increases with prior no-show history,PASS
+Definition alignment,"Use 0-7, 8-21, 22-40, 41-60 lead-time bands",PASS — Data Science retest now uses Analytics bands
